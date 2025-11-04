@@ -209,5 +209,4 @@ By following these steps, you can effectively use **LLVMTA** to estimate the **W
 If you need further clarification on any step or assistance with setup, feel free to ask!
 
 ---
-
-This guide serves as a comprehensive README to help you get started with LLVMTA for WCET analysis.
+ 
